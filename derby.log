@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 19 23:39:04 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018c-843b-8c32-00000e730040 
+on database directory C:\Users\seank\IntelliJ_Projects\BuchVerwalung\BuchUndBenutzerDatenbank with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@723279cf 
+Loaded from file:/C:/Users/seank/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=C:\Users\seank\IntelliJ_Projects\BuchVerwalung
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
